@@ -1,3 +1,0 @@
-# Pyiramid
-
-shubh
